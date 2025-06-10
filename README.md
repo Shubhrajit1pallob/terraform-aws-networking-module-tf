@@ -1,5 +1,7 @@
 # Local Module for Networking with Terraform
 
+Networking Module created by Shubhrajit Pallob.
+
 ## Overview
 
 This project demonstrates the creation and usage of a local Terraform module for networking. The module is designed to create a VPC with configurable subnets, route tables, and an internet gateway (if required). It allows users to provide custom configurations for subnets, including CIDR blocks, availability zones, and public/private subnet designation. The module also includes validation for user inputs using lifecycle preconditions.
